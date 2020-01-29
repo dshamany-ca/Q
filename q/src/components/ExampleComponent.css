@@ -1,0 +1,9 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.container {
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
