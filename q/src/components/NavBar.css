@@ -1,0 +1,10 @@
+.NavBar {
+    width: 100vw;
+    height: 30px;
+    background-color: black;
+}
+
+.navItem {
+    color: black;
+    padding: 10px;
+}
